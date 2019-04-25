@@ -1,0 +1,25 @@
+html,body{
+  margin:0px;
+  font-family: "Roboto", sans-serif;
+}
+
+.hero-image{
+  height: 75vh;
+  background: url("light_.jpg"), blue;
+  background-size: cover;
+  background-position: center;
+  padding: 2em;
+  color: white;
+  text-shadow: 0px 0px 4px #000;
+  display: flex;
+  align-items: flex-end;
+}
+
+.hero-image h1{
+  font-size: 72px;
+  margin: 0px;
+}
+
+.hero-image p{
+  font-size: 24px;
+}
